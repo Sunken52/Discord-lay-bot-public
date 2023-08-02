@@ -1,0 +1,5 @@
+Discord Bot update v1.1 patch notes
+
+-Upgraded to handle laying my bets as well
+-Introduced new lay command partial_lay, lets you lay out of part of the stake, not all of it
+-Next bets now shows how much you would win with either lay strategy
